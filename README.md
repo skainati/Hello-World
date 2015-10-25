@@ -1,2 +1,3 @@
 # Hello-World
-This is jus tot get acquinted to Gist
+This is just to get acquinted to GistHUB
+edit filed

@@ -1,1 +1,2 @@
-test
+general:
+  build_dir: api
